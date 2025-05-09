@@ -3,3 +3,7 @@ function carros(){
 }
 
 carros();
+
+
+
+console.log(`hola miguel${carros}`);
